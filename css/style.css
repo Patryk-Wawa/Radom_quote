@@ -1,0 +1,38 @@
+body {
+  background: black;
+}
+h1 {
+  background: white; 
+  text-align: center;
+  border: solid black 5px;
+  padding: 5px;
+  color: red;
+  font-size: 50px;
+}
+.trigger {
+  margin-left: 41%;
+  font-size: 35px;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+.tweet {
+  text-decoration: none;
+  margin-left: 44%;
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+  border: solid blue 4px;
+  padding: 5px 30px;
+  background: blue;
+}
+.box {
+  text-align: center;
+  background: white;
+}
+h2 {
+  font-size: 45px;
+}
+h3 {
+  font-size: 35px;
+}
+
